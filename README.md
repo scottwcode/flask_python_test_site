@@ -6,4 +6,4 @@ This repo contains test Python Code displayed in a website using Flask
 
 > python flask_test_site.py
 
-This will serve the code in localhost. There will be several messages, with one saying where the site is running (e.g. http://127.0.0.1:5000/). CMD-Click that url which will open your default browser with the url. From the browser, add /admin to the end of the url (http://127.0.0.1:5000/admin) to execute the code.
+This will serve the code in localhost/5000. There will be several messages, with one saying where the site is running (e.g. http://127.0.0.1:5000/). CMD-Click that url which will open your default browser with the url. From the browser, add /admin to the end of the url (http://127.0.0.1:5000/admin).
